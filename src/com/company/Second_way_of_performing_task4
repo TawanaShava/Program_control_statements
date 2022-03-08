@@ -19,7 +19,7 @@ public class Main {
 
             i=i+2; //increments the variable i by 2
 
-            //second way of performing task 4
+            //second way of performing task 4 even numbers from 1 to 100 using loop
     }
 }
 }
