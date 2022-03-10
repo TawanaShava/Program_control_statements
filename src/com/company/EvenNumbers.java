@@ -13,11 +13,18 @@ public class EvenNumbers {
 
         System.out.println("List of even numbers: ");
         //the while loop executes until the condition becomes false
-        while (i <= number){
+       /* while (i <= number){
             System.out.println( i + " " );
 
             i=i+2; //increments the variable i by 2
         }
+        */
+          for ( i= 2;i<=number  ; i=i){
+            System.out.println(i + "");
+            i=i+2;
+
+
+        };
 
 
 
