@@ -19,7 +19,17 @@ public class Main {
 
             i=i+2; //increments the variable i by 2
 
-            //second way of performing task 4 even numbers from 1 to 100 using loop
+     
+     //second way of performing task 4 even numbers from 1 to 100 using loop
+     
+     //for loop
+       for ( i= 2;i<=number  ; i=i){
+            System.out.println(i + "");
+            i=i+2;
+
+
+        };
+     
     }
 }
 }
